@@ -2,8 +2,9 @@
 
 The repo contains: 
 
-1. The official implementation of [DNABERT-2: Efficient Foundation Model and Benchmark for Multi-Species Genome](https://arxiv.org/abs/2306.15006)
+1. The official implementation of is mentioned here [DNABERT-2: Efficient Foundation Model and Benchmark for Multi-Species Genome](https://arxiv.org/abs/2306.15006)
 2. Genome Understanding Evaluation (GUE): a comprehensize benchmark containing 28 datasets for multi-species genome understanding benchmark.
+3. This project is an effort at better promoter region detection for multiple species of animals by fine tuning the original DNABERT 2 model and adding motif finding functionality.
 
 
 
